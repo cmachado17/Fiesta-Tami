@@ -6,6 +6,7 @@ $(document).ready(function () {
                 captions: true,
                 slideWidth: 700,
                 responsive: true,
+                maxHeigth: 700,
                 adaptiveHeight: true
             });
       
